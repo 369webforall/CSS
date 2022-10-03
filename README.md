@@ -251,3 +251,13 @@ Total element height = height + top padding + bottom padding + top border + bott
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/6.0.3/index.cjs.min.js" integrity="sha512-XA50v2jCBeXCjj3csHdYV4HLvACatDSmuN+qGW2CALMbjz4jqGpzf2Fi2WYbbcfex7n44oj1KUNpSWqg9BblhQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 ```
+# CSS Links
+
+- With CSS, links can be styled in many different ways.
+
+[CSS Links](https://www.w3schools.com/css/css_link.asp)
+
+# CSS Lists
+
+- HTML Lists and CSS List Properties
+
