@@ -228,3 +228,26 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [CSS Height, Width and Max-width](https://www.w3schools.com/css/css_dimension.asp)
 
+# CSS Text
+
+[CSS Text](https://www.w3schools.com/css/css_text.asp)
+
+# CSS Fonts
+
+[CSS Fonts](https://www.w3schools.com/css/css_font.asp)
+
+# CSS Icons
+
+[CSS Icons](https://www.w3schools.com/css/css_icons.asp)
+
+[Font Awesome 5 Introduction](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+
+
+## Ionicons 
+
+[Ionicons](https://ionic.io/ionicons)
+
+```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/6.0.3/index.cjs.min.js" integrity="sha512-XA50v2jCBeXCjj3csHdYV4HLvACatDSmuN+qGW2CALMbjz4jqGpzf2Fi2WYbbcfex7n44oj1KUNpSWqg9BblhQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+```
