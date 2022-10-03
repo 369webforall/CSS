@@ -92,6 +92,12 @@ h1, h2, p {
  
 ```
 
+# CSS Rule Example
+
+![CSS Rule](./images/css-rule.jpg)
+
+
+
 # CSS Colors
 
 - Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
@@ -128,3 +134,65 @@ h1, h2, p {
 
 
 ```
+
+# CSS Backgrounds
+
+- In these chapters, you will learn about the following CSS background properties:
+
+- background-color
+- background-image
+- background-repeat
+- background-attachment
+- background-position
+- background (shorthand property)
+
+## background-color
+
+Sets the background color of an element
+
+Example:
+
+Here, the <h1>, <p>, and <div> elements will have different background colors: 
+
+```
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
+```
+
+## background-image
+
+- The background-image property specifies an image to use as the background of an element.
+
+- By default, the image is repeated so it covers the entire element.
+
+body {
+  background-image: url("paper.gif");
+}
+
+## background-repeat
+
+## background-attachment
+
+## background-position
+
+## background (shorthand property)
+
+[Background](https://www.w3schools.com/css/css_background_repeat.asp)
+
+
+# CSS Box Model
+
+![Box model](./images/box-model.png)
+
+![Box Model](./images/box-model2.jpg)
+
+![Compare Box Model](./images/compare_models.png)
