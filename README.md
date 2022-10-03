@@ -261,3 +261,5 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 - HTML Lists and CSS List Properties
 
+[CSS Lists](https://www.w3schools.com/css/css_list.asp)
+
