@@ -196,3 +196,35 @@ body {
 ![Box Model](./images/box-model2.jpg)
 
 ![Compare Box Model](./images/compare_models.png)
+
+## Width and Height of an Element
+
+```
+Important: When you set the width and height properties of an element with CSS, you just set the width and height of the content area. To calculate the full size of an element, you must also add padding, borders and margins.
+
+The total width of an element should be calculated like this:
+
+Total element width = width + left padding + right padding + left border + right border + left margin + right margin
+
+The total height of an element should be calculated like this:
+
+Total element height = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
+```
+
+# CSS Borders
+
+[CSS Borders](https://www.w3schools.com/css/css_border.asp)
+
+
+# CSS Margins
+
+[CSS Margins](https://www.w3schools.com/css/css_margin.asp)
+
+# CSS Padding
+
+[CSS padding](https://www.w3schools.com/css/css_padding.asp)
+
+# CSS Height, Width and Max-width
+
+[CSS Height, Width and Max-width](https://www.w3schools.com/css/css_dimension.asp)
+
