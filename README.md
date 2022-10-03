@@ -146,13 +146,13 @@ h1, h2, p {
 - background-position
 - background (shorthand property)
 
-## background-color
+### background-color
 
-Sets the background color of an element
+- Sets the background color of an element
 
-Example:
+`Example:`
 
-Here, the <h1>, <p>, and <div> elements will have different background colors: 
+`Here, the <h1>, <p>, and <div> elements will have different background colors:` 
 
 ```
 h1 {
@@ -168,7 +168,7 @@ p {
 }
 ```
 
-## background-image
+### background-image
 
 - The background-image property specifies an image to use as the background of an element.
 
@@ -178,13 +178,13 @@ body {
   background-image: url("paper.gif");
 }
 
-## background-repeat
+### background-repeat
 
-## background-attachment
+### background-attachment
 
-## background-position
+### background-position
 
-## background (shorthand property)
+### background (shorthand property)
 
 [Background](https://www.w3schools.com/css/css_background_repeat.asp)
 
