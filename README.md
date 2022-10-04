@@ -2,6 +2,10 @@
 
 CSS is the language we use to style a Web page.
 
+# YouTube Link
+
+[CSS](https://www.youtube.com/playlist?list=PLus8o0f0SRoNb_aPrph6ekaKb4kpDSlD7)
+
 # What is CSS?
 
 - CSS stands for Cascading Style Sheets
