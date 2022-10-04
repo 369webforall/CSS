@@ -1,0 +1,27 @@
+
+body {
+   
+    background-image: url("./images/sunrise.jpg");
+  
+    background-size:500px;
+    
+    background-repeat:no-repeat;
+    background-position: left top;
+    height: 150vh;
+    background-attachment: scroll;
+   
+   
+}
+
+h1 {
+    background-color: blue;
+}
+
+div {
+    background-color: green;
+    padding: 12px;
+   
+}
+
+
+   
