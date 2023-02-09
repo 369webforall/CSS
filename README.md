@@ -274,9 +274,19 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 # CSS position Property
 
+[Blog - position property](https://blog.hubspot.com/website/css-position)
+
 CSS helps you to position your HTML element. You can put any HTML element at whatever location you like. You can specify whether you want the element positioned relative to its natural position in the page or absolute based on its parent element.
 
 Now, we will see all the CSS positioning related properties with examples −
+
+# What is the default position of HTML elements in CSS?
+
+By default, the position property for all HTML elements in CSS is set to static. This means that if you don't specify any other position value or if the position property is not declared explicitly, it'll be static.
+
+Visually, all elements follow the order of the HTML code, and in that way the typical document flow is created.
+
+Elements appear one after the other – directly below one another, according to the order of the HMTL code.
 
 ## Relative Positioning
 
@@ -335,6 +345,10 @@ You can use two values top and left along with the position property to move an 
 </html>
 
 ```
+
+## Sticky Positioning
+
+Sticky positioning is really unique! A sticky element will just sit there like a static element, but as you scroll past it, if it’s parent element has room (usually: extra height) the sticky element will behave as if it’s fixed until that parent element is out of room.
 
 ## CSS Layers and Z-index
 
