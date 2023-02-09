@@ -274,6 +274,113 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 # CSS position Property
 
+CSS helps you to position your HTML element. You can put any HTML element at whatever location you like. You can specify whether you want the element positioned relative to its natural position in the page or absolute based on its parent element.
+
+Now, we will see all the CSS positioning related properties with examples −
+
+## Relative Positioning
+
+Relative positioning changes the position of the HTML element relative to where it normally appears. Now u are allowed to more the element to left, right, top, bottom
+
+```
+<html>
+   <head>
+   </head>
+
+   <body>
+      <div style = "position:relative; left:80px; top:2px; background-color:yellow;">
+         This div has relative positioning.
+      </div>
+   </body>
+</html>
+
+```
+
+## Absolute Positioning
+
+An element with **position: absolute** is positioned at the specified coordinates relative to your screen top-left corner.
+
+You can use two values top and left along with the position property to move an HTML element anywhere in the HTML document.
+
+```
+<html>
+   <head>
+   </head>
+
+   <body>
+      <div style = "position:absolute; left:80px; top:20px; background-color:yellow;">
+         This div has absolute positioning.
+      </div>
+   </body>
+</html>
+
+```
+
+## Fixed Positioning
+
+Fixed positioning allows you to fix the position of an element to a particular spot on the page, regardless of scrolling. Specified coordinates will be relative to the browser window.
+
+You can use two values top and left along with the position property to move an HTML element anywhere in the HTML document.
+
+```
+<html>
+   <head>
+   </head>
+
+   <body>
+      <div style = "position:fixed; left:80px; top:20px; background-color:yellow;">
+         This div has fixed positioning.
+      </div>
+   </body>
+</html>
+
+```
+
+## CSS Layers and Z-index
+
+CSS gives you opportunity to create layers of various divisions. The CSS layers refer to applying the z-index property to elements that overlap with each other.
+
+The z-index property is used along with the position property to create an effect of layers. You can specify which element should come on top and which element should come at bottom.
+
+A z-index property can help you to create more complex webpage layouts. Following is the example which shows how to create layers in CSS.
+
+```
+<html>
+   <head>
+   </head>
+
+   <body>
+      <div style = "background-color:red;
+         width:300px;
+         height:100px;
+         position:relative;
+         top:10px;
+         left:80px;
+         z-index:2">
+      </div>
+
+      <div style = "background-color:yellow;
+         width:300px;
+         height:100px;
+         position:relative;
+         top:-60px;
+         left:35px;
+         z-index:1;">
+      </div>
+
+      <div style = "background-color:green;
+         width:300px;
+         height:100px;
+         position:relative;
+         top:-220px;
+         left:120px;
+         z-index:3;">
+      </div>
+   </body>
+</html>
+
+```
+
 # HTML and CSS Projects.
 
 ## Project - 1
