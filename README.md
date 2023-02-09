@@ -397,6 +397,8 @@ A z-index property can help you to create more complex webpage layouts. Followin
 
 # HTML and CSS Projects.
 
+[Basic page structure - google doc](https://docs.google.com/document/d/144gpYdeVUQljEFQBK_-x5M4KSM3R9Dc7mLkQpQNFjwA/edit#heading=h.dnje4qsk4zbo)
+
 ## Project - 1
 
 [Personal-portfolio](https://personal-portfolio.freecodecamp.rocks/)
