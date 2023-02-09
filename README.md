@@ -4,7 +4,7 @@ CSS is the language we use to style a Web page.
 
 # YouTube Link
 
-[YouTube Video](https://www.youtube.com/playlist?list=PLus8o0f0SRoNb_aPrph6ekaKb4kpDSlD7)
+[YouTube Video -1 - Basic CSS](https://www.youtube.com/watch?v=NdFVQ7YOAF4)
 
 # What is CSS?
 
@@ -22,20 +22,20 @@ CSS is the language we use to style a Web page.
 CSS selectors are used to "find" (or select) the HTML elements you want to style.
 
 ## The CSS id Selector
- 
- - The id selector uses the id attribute of an HTML element to select a specific element.
 
- - The id of an element is unique within a page, so the id selector is used to select one unique element!
+- The id selector uses the id attribute of an HTML element to select a specific element.
 
- - To select an element with a specific id, write a hash (#) character, followed by the id of the element.
+- The id of an element is unique within a page, so the id selector is used to select one unique element!
 
- ```
+- To select an element with a specific id, write a hash (#) character, followed by the id of the element.
+
+```
 #para1 {
-  text-align: center;
-  color: red;
+ text-align: center;
+ color: red;
 }
 
- ```
+```
 
 ## The CSS class Selector
 
@@ -53,7 +53,8 @@ CSS selectors are used to "find" (or select) the HTML elements you want to style
 ```
 
 # The CSS Universal Selector
-- The universal selector (*) selects all HTML elements on the page.
+
+- The universal selector (\*) selects all HTML elements on the page.
 
 ```
 * {
@@ -93,14 +94,12 @@ h1, h2, p {
   text-align: center;
   color: red;
 }
- 
+
 ```
 
 # CSS Rule Example
 
 ![CSS Rule](./images/css-rule.jpg)
-
-
 
 # CSS Colors
 
@@ -156,7 +155,7 @@ h1, h2, p {
 
 `Example:`
 
-`Here, the <h1>, <p>, and <div> elements will have different background colors:` 
+`Here, the <h1>, <p>, and <div> elements will have different background colors:`
 
 ```
 h1 {
@@ -179,7 +178,7 @@ p {
 - By default, the image is repeated so it covers the entire element.
 
 body {
-  background-image: url("paper.gif");
+background-image: url("paper.gif");
 }
 
 ### background-repeat
@@ -191,7 +190,6 @@ body {
 ### background (shorthand property)
 
 [Background](https://www.w3schools.com/css/css_background_repeat.asp)
-
 
 # CSS Box Model
 
@@ -219,7 +217,6 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [CSS Borders](https://www.w3schools.com/css/css_border.asp)
 
-
 # CSS Margins
 
 [CSS Margins](https://www.w3schools.com/css/css_margin.asp)
@@ -246,8 +243,7 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [Font Awesome 5 Introduction](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 
-
-## Ionicons 
+## Ionicons
 
 [Ionicons](https://ionic.io/ionicons)
 
@@ -255,6 +251,7 @@ Total element height = height + top padding + bottom padding + top border + bott
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/6.0.3/index.cjs.min.js" integrity="sha512-XA50v2jCBeXCjj3csHdYV4HLvACatDSmuN+qGW2CALMbjz4jqGpzf2Fi2WYbbcfex7n44oj1KUNpSWqg9BblhQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 ```
+
 # CSS Links
 
 - With CSS, links can be styled in many different ways.
@@ -276,7 +273,6 @@ Total element height = height + top padding + bottom padding + top border + bott
 [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 # CSS position Property
-
 
 # HTML and CSS Projects.
 
@@ -304,16 +300,17 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [photographysite](https://jolly-kalam-23776e.netlify.app/photographysite/#images)
 
+## Project - 7
 
-## More project 
+[HTML-CSS Survay Form](https://survey-form.freecodecamp.rocks/)
+
+## More project
 
 [frontendmentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc&types=free)
 
-
 ## Resoureces
 
- * [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
- * [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
- * [Quackit HTML Tag List](http://www.quackit.com/html/tags/)
-
-
+- [The Odin project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+- [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
+- [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
+- [Quackit HTML Tag List](http://www.quackit.com/html/tags/)

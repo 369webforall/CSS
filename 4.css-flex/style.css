@@ -3,9 +3,12 @@
     width: 600px;
     height: 600px;
     border: 2px solid orange;
-
     display: flex;
-gap: 24px;
+
+
+ 
+
+
  
 }
 
@@ -16,45 +19,32 @@ gap: 24px;
     border: 2px solid blue;
  
 }
-
 .child--1 {
     flex: 1;
+    
 }
-
-.child--2 {
-    flex: 1;
-    align-self: center;
-}
-
-
 
 .child--4 {
-   flex: 2;
+    background-color: aqua;
+    flex:3;
 }
 
-.header {
+.header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    padding: 6px 50px;
     background-color: steelblue;
     color: #fff;
-
 }
 
-
-
-
 ul {
-    list-style-type: none;
     display: flex;
-    align-items: center;
-    gap:24px;
+    list-style: none;
+    gap: 24px;
 }
 
 a {
-    font-size: 21px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
-    color: #fff;
+    color: inherit;
+    font-size: 1.2rem;
 }
