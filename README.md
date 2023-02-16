@@ -12,6 +12,8 @@ CSS is the language we use to style a Web page.
 
 [YouTube Video -4 - CSS FlexBox](https://youtu.be/c2vCBlVSQMs)
 
+[YouTube Video -5 - Challenge](https://youtu.be/W0rj_mUo28k)
+
 # What is CSS?
 
 - CSS stands for Cascading Style Sheets
