@@ -433,6 +433,27 @@ The units vh and vw relate to the size of the viewport. Specifically, 1vh is equ
 
 [Normalize](https://nicolasgallagher.com/about-normalize-css/)
 
+# Responsive Design & Media Queries
+
+[Clamp Function](https://utopia.fyi/)
+
+## Media Query
+
+```
+@media(min-width: 700px){
+   body{
+      background-color: orange;
+   }
+}
+
+@media(min-width: 1000px){
+   body{
+      background-color: blue;
+   }
+}
+
+```
+
 # HTML and CSS Projects.
 
 [Basic page structure - google doc](https://docs.google.com/document/d/144gpYdeVUQljEFQBK_-x5M4KSM3R9Dc7mLkQpQNFjwA/edit#heading=h.dnje4qsk4zbo)
