@@ -18,7 +18,11 @@ CSS is the language we use to style a Web page.
 
 [YouTube Video -7 - HTML/CSS - Card](https://youtu.be/VuFM5lhWIQc)
 
-[YT-8 - Challenge 5 and 6 - HTML/CSS ](https://youtu.be/49tgxIT4_Ek)
+[YTV-8 - Challenge 5 and 6 - HTML/CSS ](https://youtu.be/49tgxIT4_Ek)
+
+[YTV-9 - Challenge 8 - HTML/CSS-responsive](https://youtu.be/_MBxxEuNrbQ)
+
+[YTV-10 - Challenge 8 second - HTML/CSS-responsive](https://youtu.be/wlYSQkZO4HI)
 
 # What is CSS?
 
