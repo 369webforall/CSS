@@ -20,9 +20,11 @@ CSS is the language we use to style a Web page.
 
 [YTV-8 - Challenge 5 and 6 - HTML/CSS ](https://youtu.be/49tgxIT4_Ek)
 
-[YTV-9 - Challenge 8 - HTML/CSS-responsive](https://youtu.be/_MBxxEuNrbQ)
+[YTV-9 - Challenge 8- P1 - HTML/CSS-responsive](https://youtu.be/_MBxxEuNrbQ)
 
-[YTV-10 - Challenge 8 second - HTML/CSS-responsive](https://youtu.be/wlYSQkZO4HI)
+[YTV-10 - Challenge 8- P2 - HTML/CSS-responsive](https://youtu.be/wlYSQkZO4HI)
+
+[YTV-11 - Challenge 8- P3 - HTML/CSS-responsive](https://youtu.be/Pp-b_472EKk)
 
 # What is CSS?
 
