@@ -26,6 +26,10 @@ CSS is the language we use to style a Web page.
 
 [YTV-11 - Challenge 8- P3 - HTML/CSS-responsive](https://youtu.be/Pp-b_472EKk)
 
+[YTV-12 -Position and FlexBox - HTML/CSS](https://youtu.be/tNRFmISFNfA)
+
+[YTV-13 -Grid - HTML/CSS](https://youtu.be/rat7Q9gVXhM)
+
 # What is CSS?
 
 - CSS stands for Cascading Style Sheets
