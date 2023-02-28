@@ -263,11 +263,60 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
 
+[Google Fonts](https://fonts.google.com/)
+
+```
+//style.css
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@700&display=swap');
+
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+}
+
+
+:root {
+--font-family-Montserrat: 'Montserrat', sans-serif;
+--font-family-Oswald: 'Oswald', sans-serif;
+}
+
+html {
+   font-size: 10px;
+}
+
+body {
+   font-family: var(--font-family-Montserrat);
+
+}
+
+h1 {
+   font-family: var(--font-family-Oswald);
+   font-size: 6rem;
+}
+
+```
+
 # CSS Icons
 
-[CSS Icons](https://www.w3schools.com/css/css_icons.asp)
+[CSS Icons example w3school](https://www.w3schools.com/css/css_icons.asp)
 
-[Font Awesome 5 Introduction](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+## Fontawasome Icons
+
+[Fontawasome Website](https://fontawesome.com/)
+
+- create account and search for the required icon for your project.
+
+[Font Awesome CDN](https://cdnjs.com/libraries/font-awesome)
+
+- copy the CDN link and add to your head section in index.html page
+- now use the icon.
+
+```
+<i class="fa-solid fa-music"></i>
+
+```
 
 ## Ionicons
 
@@ -508,3 +557,23 @@ The units vh and vw relate to the size of the viewport. Specifically, 1vh is equ
 - [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
 - [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
 - [Quackit HTML Tag List](http://www.quackit.com/html/tags/)
+
+# Frontend Developer Tools
+
+[Color hunt](https://colorhunt.co/);
+
+[Layout your page](https://layout.bradwoods.io/);
+
+[CSS Responsively](https://responsively.app/)
+
+[Magic pattern](https://www.magicpattern.design/);
+
+[CSS Animation](https://animista.net/);
+
+[CSS gradient](https://cssgradient.io/);
+
+[HTML Head section](https://htmlhead.dev/);
+
+[Readme file](https://readme.so/);
+
+[Create screenshot](https://browserframe.com/);
